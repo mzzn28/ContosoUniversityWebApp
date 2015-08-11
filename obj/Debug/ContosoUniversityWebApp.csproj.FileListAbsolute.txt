@@ -31,3 +31,4 @@ C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\C
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.Mvc.dll
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.xml
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.Mvc.xml
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csprojResolveAssemblyReference.cache
