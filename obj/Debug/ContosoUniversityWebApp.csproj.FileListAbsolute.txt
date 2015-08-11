@@ -21,10 +21,13 @@ c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\C
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\System.Web.WebPages.Razor.xml
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Antlr3.Runtime.pdb
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Newtonsoft.Json.xml
-c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csprojResolveAssemblyReference.cache
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.dll
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.pdb
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.dll
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.dll
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.xml
 c:\users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.Mvc.dll
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.xml
+C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\PagedList.Mvc.xml
