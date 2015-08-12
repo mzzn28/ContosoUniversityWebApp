@@ -5,6 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+//new lines
+using ContosoUniversity.DAL;
+using System.Data.Entity.Infrastructure.Interception;
 
 namespace ContosoUniversityWebApp
 {
@@ -16,6 +19,9 @@ namespace ContosoUniversityWebApp
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //Connection Resiliency
+            DbInterception.Add(new SchoolInterceptorTransientErrors());
+            DbInterception.Add(new SchoolInterceptorLogging());
         }
     }
 }
