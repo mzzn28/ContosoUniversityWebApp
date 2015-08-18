@@ -33,3 +33,6 @@ C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\C
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csproj.GenerateResource.Cache
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.dll
 C:\Users\mahmood\Documents\Visual Studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.pdb
+C:\Users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csprojResolveAssemblyReference.cache
+C:\Users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\mahmood\documents\visual studio 2013\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
